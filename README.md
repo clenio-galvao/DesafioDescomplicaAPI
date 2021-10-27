@@ -13,5 +13,5 @@
 -  Acrescentar um proxy reverso;
 -  Disponibilizar uma solução para o deploy;
 
----
-A API deve listar os alunos, com os seguintes campos: {nome, CPF, e-mail}
+
+*A API deve listar os alunos, com os seguintes campos: {nome, CPF, e-mail}*
